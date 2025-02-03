@@ -4,8 +4,6 @@ WebNotes is a lightweight and intuitive Chrome extension that allows users to st
 
 Features
 
-Create and Store Notes: Save unlimited notes within the extension.
-
-Rich Text Formatting: Apply bold, italic, underline, and other formatting styles.
-
-Persistent Storage: Notes are stored locally and remain available even after browser restarts.
+- Create and Store Notes: Save unlimited notes within the extension.
+- Rich Text Formatting: Apply bold, italic, underline, and other formatting styles.
+- Persistent Storage: Notes are stored locally and remain available even after browser restarts.
